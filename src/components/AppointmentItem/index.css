@@ -1,0 +1,15 @@
+li {
+  background-color: aliceblue;
+  box-shadow: 0px 4px 40px 0px #222222;
+  border-radius: 10%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 2% 5%;
+  margin: 5%;
+}
+.btn-stop {
+  border: none;
+  background-color: transparent;
+}
